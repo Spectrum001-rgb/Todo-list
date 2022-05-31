@@ -1,0 +1,38 @@
+* {
+  background-color: blueviolet;
+}
+
+.container {
+  border-radius: 20px;
+  border-color: white;
+  margin-top: 100px;
+  margin-left: 400px;
+}
+
+.container h3 {
+  color: white;
+}
+
+.container input {
+  background-color: white;
+  border-radius: 5px;
+  border-color: white;
+}
+
+.add {
+  margin-left: 30px;
+  color: white;
+  border-color: white;
+  border-radius: 20px;
+  width: 50px;
+}
+
+.sample {
+  visibility: hidden;
+  color: white;
+}
+
+.nn {
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
